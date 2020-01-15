@@ -78,7 +78,7 @@
 										<xml>
 											<method>
 												<xpath>
-													<xpath>/amps/instance/</xpath>
+													<xpath>/amps/instance</xpath>
 													<headlines>
 														<headline>
 															<name/>
@@ -355,7 +355,7 @@
 										<xml>
 											<method>
 												<xpath>
-													<xpath>/amps/instance/</xpath>
+													<xpath>/amps/instance</xpath>
 													<columns>
 														<column>
 															<name>
